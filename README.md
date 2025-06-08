@@ -57,9 +57,9 @@ We’re in early planning and prototyping. Below is our prioritized plan:
 
 ## Get Involved
 
-* **Discussions:** Join us on [GitHub Discussions]().
-* **Contribute:** Fork the repo, open issues, and submit pull requests.
-* **Feedback:** Share feature requests and use‑case insights.
+- **Discussions:** Join us on [GitHub Discussions](https://github.com/mzau/HEADLESS-FS/discussions).
+- **Contribute:** Fork the repo, open issues, and submit pull requests.
+- **Feedback:** Share feature requests and use-case insights.
 
 ---
 
