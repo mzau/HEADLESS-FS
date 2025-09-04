@@ -27,14 +27,14 @@ HEADLESS-FS is an open‑source middleware framework for precise, real‑time si
 
 We’re in early planning and prototyping. Below is our prioritized plan:
 
-| Phase                           | Timeline | Priority   | Deliverable                                                |
-| ------------------------------- | -------- | ---------- | ---------------------------------------------------------- |
-| **POC 1: Deterministic Kernel** | Q3 2025  | **Must**   | Real‑time scheduler, SimTime abstraction, basic test suite |
-| **POC 2: Avionics Networking**  | Q4 2025  | **Must**   | Virtual ARINC‑664 links, QoS config, fault injection tests |
-| **POC 3: Display Logic**        | Q1 2026  | **Should** | ND/PFD logic module, renderer interface, integration demo  |
-| **Blade‑Element Aerodynamics**  | Q2 2026  | **Could**  | Plugin for detailed aerodynamic forces                     |
-| **RTOS Integration**            | Q3 2026  | **Could**  | Embassy/RTIC support for embedded targets                  |
-| **PI‑Demo**                     | Q4 2026  | **Should** | Full simulator demo on Raspberry Pi                        |
+| Phase                           | Priority   | Deliverable                                                |
+| ------------------------------- | ---------- | ---------------------------------------------------------- |
+| **POC 1: Deterministic Kernel** | **Must**   | Real-time scheduler, SimTime abstraction, basic test suite |
+| **POC 2: Avionics Networking**  | **Must**   | Virtual ARINC-664 links, QoS config, fault injection tests |
+| **POC 3: Display Logic**        | **Should** | ND/PFD logic module, renderer interface, integration demo  |
+| **Blade-Element Aerodynamics**  | **Could**  | Plugin for detailed aerodynamic forces                     |
+| **RTOS Integration**            | **Could**  | Embassy/RTIC support for embedded targets                  |
+| **PI-Demo**                     | **Should** | Full simulator demo with Raspberry Pi ND/PFD               |
 
 ---
 
